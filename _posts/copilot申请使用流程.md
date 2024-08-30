@@ -45,5 +45,7 @@ AI辅助程序员
 
 # 参考资料
 [GitHub教程 学生认证 | 申请学生开发包](https://blog.csdn.net/qq_36667170/article/details/79084166?ops_request_misc=&request_id=&biz_id=102&utm_term=github%E5%AD%A6%E7%94%9F%E8%AE%A4%E8%AF%81&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-79084166.142^v33^new_blog_fixed_pos,185^v2^control&spm=1018.2226.3001.4187)
+
 [Github Copilot的申请及在Pycharm的配置和使用](https://blog.csdn.net/qq_46158060/article/details/124002889?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165856594116782390580194%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165856594116782390580194&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-124002889-null-null.142^v33^new_blog_fixed_pos,185^v2^control&utm_term=copilot%E7%94%B3%E8%AF%B7&spm=1018.2226.3001.4187)
+
 [GitHub Copilot 使用入门](https://docs.github.com/cn/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-a-jetbrains-ide#prerequisites)
