@@ -1,4 +1,16 @@
-
+---
+layout:     post
+title:      copilot申请使用流程
+subtitle:   copilot申请使用流程v2
+date:       2024-08-30
+author:     FH
+header-img: 
+catalog: true
+tags:
+    - copilot
+    - AI
+    - 大模型
+---
 
 # 整体流程 
 1.申请github学生包
